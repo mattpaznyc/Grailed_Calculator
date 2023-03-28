@@ -3,7 +3,7 @@ import numpy as np
 
 #App title
 st.set_page_config(page_title="Grailed Fee Calculator")
-st.header('Grailed Fee Calculator App :dollar:')
+st.header('Grailed Fee Calculator :dollar:')
 #App Description
 st.caption("An app designed to calculate Grailed's commission and payment processing fees.")
 
