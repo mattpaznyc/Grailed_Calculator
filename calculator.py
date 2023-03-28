@@ -2,8 +2,8 @@ import streamlit as st
 import numpy as np
 
 #App title
-st.set_page_config(page_title="Grailed Calculator")
-st.header('Grailed Calculator App :dollar:')
+st.set_page_config(page_title="Grailed Fee Calculator")
+st.header('Grailed Fee Calculator App :dollar:')
 #App Description
 st.caption("An app designed to calculate Grailed's commission and payment processing fees.")
 
