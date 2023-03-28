@@ -1,1 +1,1 @@
-# Grailed_Calculator
+# Grailed Fee Calculator
